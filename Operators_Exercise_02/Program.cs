@@ -1,4 +1,8 @@
 ﻿
+// TODO: use the assignment operator to initialize the variable below to 10
+int assign1;
+
+
 // TODO: use the compound add-assignment operator to add the 2 variables below 
 // Print the result to the console
 
